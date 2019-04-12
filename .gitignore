@@ -1,0 +1,15 @@
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex*
+*.puc
+**/__pycache__
+*.stackdump
+*.idea
+main.pdf
+analysis/src
+figures/
+src
+**/*.pyc
